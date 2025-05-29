@@ -54,7 +54,8 @@ File Used: `data.csv`
 
 ## 📸 Visualization
 
-![Simple Regression Plot](simple_regression_plot.png)
+![simple_regression_plot](https://github.com/user-attachments/assets/6873ae98-f798-4ca5-8905-de1295807106)
+
 
 
 ---
